@@ -1,3 +1,9 @@
-name, date, description
+Richard Evan Canull, 3/27/15
 
-be sure to include complete details of how to interact with your game, the scoring system, and how to win
+The controls
+"w"-jumo
+"A"-left
+"D"-right
+
+Jump the teh triangle over the squares which very in size. The longer you last you score will got up by 1.
+After each wave is complete the it becomes more difficult. Once the score reached 5 the player wins.
